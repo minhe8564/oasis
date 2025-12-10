@@ -38,7 +38,7 @@
 
 </div> <br>
 
-## 🌴 팀원 구성
+## 🌴 팀원 소개
 
 <a name="developers"></a>
 
@@ -87,7 +87,7 @@ Presentation] </a> <br></td>
 <table>
     <tr>
         <td width="33%" align="center"> <a href="https://github.com/jieun-99">
-        <img src="./readme-assets/jieun_lee.jpg" width="160px" /> <br> 김지은 <br>[Infra · IoT] </a> <br></td>
+        <img src="./readme-assets/jieun_lee.jpg" width="160px" /> <br> 이지은 <br>[Infra · IoT] </a> <br></td>
         <td width="33%" align="center"> <a href="https://github.com/yoonsu0325">
         <img src="./readme-assets/yunseo_won.jpg" width="160px" /> <br> 원윤서 <br>[Backend · Async API] </a> <br></td>
         <td width="33%" align="center"> <a href="https://github.com/yuju9">
